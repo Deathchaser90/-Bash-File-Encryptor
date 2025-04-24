@@ -24,14 +24,14 @@ A simple yet powerful Bash script to encrypt and decrypt files using OpenSSL, wi
    ```bash
    pkg update && pkg upgrade -y
    pkg install git openssh 
-   git clone https://github.com/YOUR-USERNAME/bash-encryptor.git
+   git clone https://github.com/Deathchaser90/-Bash-File-Encryptor.git
    cd bash-encryptor
 
 2. **Give execution permissions and Execute**
   ```bash
   chmod +x bash-encryptor.sh
   ./bash bash-encryptor.sh
-```
+  ```
 
 
 ##Requirements
