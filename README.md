@@ -28,16 +28,16 @@ A simple yet powerful Bash script to encrypt and decrypt files using OpenSSL, wi
    cd bash-encryptor
 
 2. **Give execution permissions and Execute**
-  ```bash
-  chmod +x bash-encryptor.sh
-  ./bash bash-encryptor.sh
-  ```
-
+    ```bash
+    chmod +x bash-encryptor.sh
+    ./bash bash-encryptor.sh
+    
+---
 
 ##Requirements
 
-Bash
-OpenSSL installed (openssl)
+Bash |
+OpenSSL installed (openssl) | 
 Linux / Termux / macOS or any bash-compatible shell
 
 ---
