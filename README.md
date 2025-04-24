@@ -23,7 +23,7 @@ A simple yet powerful Bash script to encrypt and decrypt files using OpenSSL, wi
 1. **Clone the repo**
    ```bash
    pkg update && pkg upgrade -y
-   pkg install git openssh 
+   pkg install git openssl-tool 
    git clone https://github.com/Deathchaser90/-Bash-File-Encryptor.git
    cd bash-encryptor
 
@@ -37,7 +37,7 @@ A simple yet powerful Bash script to encrypt and decrypt files using OpenSSL, wi
 ##Requirements
 
 Bash |
-OpenSSL installed (openssl) | 
+OpenSSL installed (openssl-tool) | 
 Linux / Termux / macOS or any bash-compatible shell
 
 ---
