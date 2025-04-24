@@ -1,0 +1,3 @@
+encrypted.enc 7515bc095997a278f98704b41d3f5925c53ac80d2c3dbe5148c59effb774240e
+[2025-04-24 13:17:05] Decrypted encrypted.enc using aes-256-cbc
+[2025-04-24 13:18:50] Decrypted encrypted.enc using aes-256-cbc
