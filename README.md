@@ -55,6 +55,7 @@ Enter Filename to Encrypt: secret.txt
 Enter output filename: secret.enc
 [+] Encryption successful!
 [+] Hash logged in Logs.txt
+
 ---
 
 🚧 To Do
@@ -62,11 +63,12 @@ Enter output filename: secret.enc
  Optional password masking
  Interactive hash comparison tool
  Add GPG support
- ----
+
  
 🙋‍♂️ Author
 @Lakshay — aspiring cybersecurity learner building hands-on tools for real-world application.
 This script is my way of learning encryption, scripting, and sharing it with others.
+
 ---
 
 ⚠️ Disclaimer
